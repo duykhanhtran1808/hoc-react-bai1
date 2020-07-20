@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hoc-react-bai1/static/css/main.789cbb27.chunk.css",
+    "main.js": "/hoc-react-bai1/static/js/main.a9e4d97f.chunk.js",
+    "main.js.map": "/hoc-react-bai1/static/js/main.a9e4d97f.chunk.js.map",
+    "runtime-main.js": "/hoc-react-bai1/static/js/runtime-main.3bd20380.js",
+    "runtime-main.js.map": "/hoc-react-bai1/static/js/runtime-main.3bd20380.js.map",
+    "static/js/2.7aaef059.chunk.js": "/hoc-react-bai1/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/hoc-react-bai1/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/hoc-react-bai1/index.html",
+    "precache-manifest.6b7debbf093a244ee33933ffc53e760f.js": "/hoc-react-bai1/precache-manifest.6b7debbf093a244ee33933ffc53e760f.js",
+    "service-worker.js": "/hoc-react-bai1/service-worker.js",
+    "static/css/main.789cbb27.chunk.css.map": "/hoc-react-bai1/static/css/main.789cbb27.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/hoc-react-bai1/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bd20380.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.789cbb27.chunk.css",
+    "static/js/main.a9e4d97f.chunk.js"
+  ]
+}
